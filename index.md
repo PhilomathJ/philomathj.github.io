@@ -17,3 +17,5 @@
 **My Links**
 [This is a link to the second page](mySecondPage.md)  
 [Link to this weird thing called a TiddlyWiki](tiddlywiki.md)
+[A Really Important Site](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[A Good Time Killer Right Here](https://www.youtube.com/watch?v=1JArN6rag8s)
