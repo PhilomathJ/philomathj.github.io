@@ -4,7 +4,7 @@
 -  This is the first thing (_it's really the second thing_)
 -  This is the second thing
 -  This is a cat :cat:
--  This is the fourth thing
+-  <ins>This could be a link to all my stories I've written on Google Docs</ins>
 -  I am an Octocat :octocat:
 
 ---
@@ -15,8 +15,11 @@
 
 1. This is an ordered list
 2. This is still an ordered list
+3. I could make pages about Minecraft
 
 ## A slightly smaller heading
+
+**This could be my very own blog**
 
 ---
 
