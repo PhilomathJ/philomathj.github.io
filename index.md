@@ -9,6 +9,10 @@
 
 ---
 
+## ![Something Cute](https://cdn.vanderbilt.edu/vu-news/files/20190808112649/GettyImages-1084222130.jpg)
+
+---
+
 1. This is an ordered list
 2. This is still an ordered list
 
