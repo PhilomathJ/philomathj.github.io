@@ -3,9 +3,7 @@
 -  This is an unordered list
 -  This is the first thing (_it's really the second thing_)
 -  This is the second thing
--  This is a cat :cat:
 -  <ins>This could be a link to all my stories I've written on Google Docs</ins>
--  I am an Octocat :octocat:
 
 ---
 
