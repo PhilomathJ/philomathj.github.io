@@ -15,5 +15,5 @@
 ### Even smaller
 
 **My Links**
-[This is a link to the second page](mySecondPage.md)
+[This is a link to the second page](mySecondPage.md)  
 [Link to this weird thing called a TiddlyWiki](tiddlywiki.md)
