@@ -1,9 +1,11 @@
-# My Markdown
+# My Webpage
 
-# This is a test of the Markdown Processor
-
--  This is the first thing
+-  This is an unordered list
+-  This is the first thing (_it's really the second thing_)
 -  This is the second thing
+-  This is a cat :cat:
+-  This is the fourth thing
+-  I am an Octocat :octocat:
 
 1. This is an ordered list
 2. This is still an ordered list
