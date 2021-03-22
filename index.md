@@ -23,6 +23,11 @@
 
 ### Even smaller
 
+|           | Red  | Blue | Green | Pink | Purple |
+| --------- | ---- | ---- | ----- | ---- | ------ |
+| My Fav    |      | Fav  |       |      |        |
+| Dad's Fav | Like |      |       | Love |        |
+
 <ins>**My Links**</ins>  
 [This is a link to the second page](mySecondPage.md)  
 [Link to this weird thing called a TiddlyWiki](tiddlywiki.html)  
