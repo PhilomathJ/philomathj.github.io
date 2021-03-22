@@ -1,9 +1,9 @@
 # I am Page Two
 
-**Mad King George**
+**Mad King George**  
 ![Mad King George](https://i.ytimg.com/vi/Ti8xeyaSwCI/maxresdefault.jpg)
 
-**This is a GIF**
+**This is a GIF**  
 ![George Again](https://media3.giphy.com/media/XdJuh2U4GUlTD45qmJ/giphy.gif)
 
 ## _Things I want to make a list of_
