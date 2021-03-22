@@ -35,6 +35,6 @@
 [A Good Time Killer Right Here](https://www.youtube.com/watch?v=1JArN6rag8s)
 
 <ins>**Good Tools**</ins>  
-[Great Markdown Preview Utility](https://stackedit.io/)
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Great Markdown Preview Utility](https://stackedit.io/)  
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)  
 [Good YouTube video on coding with HTML](https://www.youtube.com/watch?v=-kabJ8qDJ4k)
