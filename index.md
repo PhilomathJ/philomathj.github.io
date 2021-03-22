@@ -7,6 +7,8 @@
 -  This is the fourth thing
 -  I am an Octocat :octocat:
 
+---
+
 1. This is an ordered list
 2. This is still an ordered list
 
